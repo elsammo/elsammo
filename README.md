@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👩‍🚀 I’m currently working on something... 😎!
+🦥 It's slowly but surely making ⚙
+
 <!--
 **elsammo/elsammo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
